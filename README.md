@@ -12,9 +12,13 @@ copy the two .sh files to your PATH, eg: cp *.sh /usr/local/bin
 
 Create a directory for your super simple ca:
 
+
 mkdir myca
+
 cd myca
+
 make-ca.sh
+
 make-cert.sh server.example.com
 
 ## Notes:
